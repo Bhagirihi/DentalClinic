@@ -11,7 +11,7 @@ export function Navbar() {
       <div className={s.navbar}>
         <div className={s.navbarLeft}>
           <Link href="/" className={s.navbarLink}>
-            <p className={s.navbarLinkText}>OM</p>
+            <p className={s.navbarLinkText}>My Dental Clinic</p>
           </Link>
           <Link href="/" className={s.navbarLink}>
             <div className={s.navbarLogoContainer}>

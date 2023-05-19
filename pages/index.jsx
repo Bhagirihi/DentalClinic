@@ -51,13 +51,13 @@ export default function Home() {
 
   return (
     <div className={s.container}>
-      <SEO title="Boreal - Clin&iacute;ca Dental" />
+      <SEO title="My Dental Clinic" />
 
       {/* Hero container with text in the left side and a image in the right side */}
       <div className={s.heroContainer}>
         <div className={s.heroText}>
           <h1 className={s.heroTextMain}>
-            OM <br /> Dental Clinic
+            My <br /> Dental Clinic
           </h1>
           <p className={s.heroTextSecondary}>
             <span ref={el}></span>.
@@ -74,7 +74,7 @@ export default function Home() {
           <Image
             className={s.heroImage}
             src="/Logo/logo.png"
-            alt="Logo Boreal"
+            alt="Logo Dental"
             // width={350}
             // height={350}
             sizes="(max-width: 920px) 300px, 350px "

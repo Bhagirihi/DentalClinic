@@ -8,7 +8,7 @@ export function SEO({ title }) {
         <title>{title}</title>
         <meta
           name="description"
-          content="Sitio web oficial de Boreal Clinica Dental"
+          content="Official website of Dental Clinic"
         />
         <link rel="icon" href="/Logo/logo.png" />
       </Head>

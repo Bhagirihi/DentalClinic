@@ -4,10 +4,10 @@ import { ServicePage, SEO } from "../../components";
 export default function Endodoncia() {
   return (
     <>
-      <SEO title="Endodoncia - Boreal" />
+      <SEO title="Endodontics - My Dental Clinic" />
       <ServicePage
-        title="Endodoncia"
-        subtitle="La endodoncia es una técnica que permite restaurar la forma de los dientes."
+        title="Endodontics"
+        subtitle="Endodontics is a technique that allows restoring the shape of the teeth."
       />
     </>
   );

@@ -9,7 +9,7 @@ export const BookingSection = () => {
     <div className={s.bookingSection}>
       <div className={s.bookingText}>
         <h1 className={s.bookingMainText}>
-        We are here to help you, do not hesitate to contact us.
+          We are here to help you, do not hesitate to contact us.
         </h1>
         <a
           href="https://wa.link/y8wop2"
@@ -23,7 +23,7 @@ export const BookingSection = () => {
         <Image
           className={s.bookingImage}
           src="/calendar.svg"
-          alt="Logo Boreal"
+          alt="Logo Dental"
           // width={300}
           // height={300}
           fill

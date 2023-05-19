@@ -5,11 +5,11 @@ import { ServicePage, SEO } from "../../components";
 export default function Implantes() {
   return (
     <>
-      <SEO title="Implantes Dentales y Rehabilitacion Oral - Boreal" />
+      <SEO title="Dental Implants and Oral Rehabilitation - My Dental Clinic" />
 
       <ServicePage
-        title="Implantes Dentales y Rehabilitacion Oral"
-        subtitle="Recupera y luce esa estupenda sonrisa que algún dia tuviste."
+        title="Dental Implants and Oral Rehabilitation"
+        subtitle="Recover and show off that stupid smile that you once had."
       />
     </>
   );

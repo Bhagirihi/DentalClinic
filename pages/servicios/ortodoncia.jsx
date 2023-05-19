@@ -5,10 +5,10 @@ import { ServicePage, SEO } from "../../components";
 export default function Ortodoncia() {
   return (
     <>
-      <SEO title="Ortodoncia - Boreal" />
+      <SEO title="Orthodontics - My Dental Clinic" />
       <ServicePage
-        title="Ortodoncia"
-        subtitle="El ortodoncia es una técnica que permite restaurar la forma de los dientes."
+        title="Orthodontics"
+        subtitle="Orthodontics is a technique that allows restoring the shape of the teeth."
       />
     </>
   );

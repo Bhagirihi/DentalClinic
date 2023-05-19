@@ -89,14 +89,14 @@ export const Footer = () => {
 
       <div className={s.lowerFooter}>
         <p>
-          Boreal Cl&iacute;nica Dental 2021 - Todos los derechos reservados.
+          My Dental Clinic 2023 - All rights reserved.
         </p>
         <div className={s.terminos}>
           {/* <a href="#" rel="noopener noreferrer"> */}
-          <p>Terminos y condiciones</p>
+          <p>Terms and Conditions</p>
           {/* </a> */}
           {/* <a href="#" rel="noopener noreferrer"> */}
-          <p>Politicas de privacidad</p>
+          <p>Privacy policies</p>
           {/* </a> */}
         </div>
       </div>

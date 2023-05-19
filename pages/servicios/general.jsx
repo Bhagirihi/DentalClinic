@@ -4,11 +4,11 @@ import { SEO, ServicePage } from "../../components";
 export default function General() {
   return (
     <>
-      <SEO title="Odontologia General - Boreal" />
+      <SEO title="General Dentistry - My Dental Clinic" />
 
       <ServicePage
-        title="Odontologia General"
-        subtitle="La odontologia general es una técnica que permite restaurar la forma de los dientes."
+        title="General Dentistry"
+        subtitle="General dentistry is a technique that allows restoring the shape of the teeth."
       />
     </>
   );

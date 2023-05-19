@@ -4,11 +4,11 @@ import { ServicePage, SEO } from "../../components";
 export default function Sonrisa() {
   return (
     <>
-      <SEO title="Dise&ntilde;o de sonrisa - Boreal" />
+      <SEO title="Smile design - My Dental Clinic" />
 
       <ServicePage
-        title="Dise&ntilde;o de sonrisa"
-        subtitle="Hacemos una mejor sonrisa para ti"
+        title="smile design"
+        subtitle="We make a better smile for you"
       />
     </>
   );
